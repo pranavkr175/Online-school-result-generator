@@ -57,11 +57,11 @@ if (mr.getC() >= 33 && mr.getJava() >= 33 && mr.getNetworking() >= 33 && mr.getP
 		<div class="mainHead">
 			<div class="head">
 				<img src="images/logo.png" alt=" logo">
-				<p>RAJIV GANDHI PROUDYOGIKI VISHWAVIDYALAYA,BHOPAL</p>
+				<p>SCHOOL OF TECHNOLOGY,BHAGALPUR BIHAR</p>
 				<br>
 			</div>
 			<p class="sub">
-				<u>(UNIVERSITY OF TECHNOLOGY OF MADHYA PRADESH)</u>
+				<u>( UNIVERSITY OF TECHNOLOGY OF BIHAR )</u>
 			</p>
 			<div class="desc">
 				<p>Marksheet Statement</p>
